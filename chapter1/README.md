@@ -1,1 +1,2 @@
-# 1장
+# Chapter 1
+Numpy / Pandas practice
